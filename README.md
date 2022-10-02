@@ -6,8 +6,10 @@
 Do you want to showcase a github repository or profile on your website? Instead of leaving a simple link, use this tool to create embedded HTML github tiles. It uses GitHub's API to grab the information, so no need to worry about updating html. You can pin profiles, single repositories, or even all repositories linked to an individual profile!
 
 ## Usage
-Simply set the html **data** field with a GitHub profile, repository, or repositories tab url...
+Simply iframe this code and set the html **data** field with a GitHub profile, repository, or repositories tab url.
 ```html
+<link rel="stylesheet" href="https://dogo6647.github.io/GitGlue/css/style.css">
+
 <script src="https://dogo6647.github.io/GitGlue/GitHubPinner.js"></script>
 <div data="https://github.com/SOMERANDOMUSER?tab=repositories" class="github-pinner" style="visibility: hidden;"></div>
 ```
