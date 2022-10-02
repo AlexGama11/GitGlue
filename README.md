@@ -1,7 +1,6 @@
 <p align="center"><img src=".readme/logo.svg">
   <br><br>
-<a href="https://www.gnu.org/licenses/gpl-3.0">
-  <img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg">
+<img src="https://img.shields.io/badge/License-GPL%20v3-blue.svg">
 
 # Overview 
 Do you want to showcase a github repository or profile on your website? Instead of leaving a simple link, use this tool to create embedded HTML github tiles. It uses GitHub's API to grab the information, so no need to worry about updating html. You can pin profiles, single repositories, or even all repositories linked to an individual profile!
