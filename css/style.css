@@ -169,7 +169,7 @@ body {
 
 .github-pinner #gp-container-repo .gp-desc {
     margin-top: 5px;
-    color: #0366d6 !important;
+    color: #6a737d !important;
     font-size: 12px !important;
 }
 
@@ -228,7 +228,7 @@ body {
     border: none;
     outline: none;
     background-image: none;
-    background-color: #0366d6;
+    background-color: white;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
@@ -243,7 +243,7 @@ body {
     background-repeat: no-repeat;
     background-position: 12px center;
     background-blend-mode: red;
-    color: #0366d6;
+    color: white;
 }
 
 .github-pinner .gp-search:focus {
