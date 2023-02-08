@@ -5,10 +5,10 @@ body {
 }
 
 .github-pinner {
-  background-color: white;
-  border: 1px solid #e1e4e8;
-  padding: 15px;
-  border-radius: 5px;
+    background-color: #0d1117;
+    border: 1px solid #e1e4e8;
+    padding: 15px;
+    border-radius: 5px;
 }
 
 .github-pinner.gp-profile {
@@ -21,9 +21,9 @@ body {
 }
 
 .github-pinner.gp-all {
-  background-color: white;
-  border-radius: 3px;
-  width: auto;
+    background-color: #0d1117;
+    border-radius: 3px;
+    width: auto;
 }
 
 /* MARK: - Profile Styling */
