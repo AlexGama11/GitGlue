@@ -76,9 +76,9 @@ body {
 }
 
 .github-pinner #gp-container-profile > #gp-information > .gp-bio {
-  margin-top: 5px;
-  font-size: 13px;
-  color: #6a737d;
+    margin-top: 5px;
+    font-size: 13px;
+    color: #0366d6;
 }
 
 .github-pinner #gp-container-profile .gp-btn:hover {
@@ -88,30 +88,30 @@ body {
     border-color: rgba(27,31,35,0.35);
 }
 
-    .github-pinner #gp-container-profile .gp-btn {
-        margin-top: 6px;
-        width: 100px;
-        float: right;
-        text-decoration: none;
-        text-align: center;
-        background-repeat: repeat-x;
-        background-position: -1px -1px;
-        background-size: 110% 110%;
-        border: 1px solid rgba(27,31,35,0.2);
-        border-radius: 0.25em;
-        -webkit-appearance: none;
-        user-select: none;
-        padding: 6px 12px;
-        font-size: 14px;
-        font-weight: 600;
-        line-height: 20px;
-        white-space: nowrap;
-        vertical-align: middle;
-        cursor: pointer;
-        color: #eff3f6;
-        background-color: #24292e;
-        background-image: linear-gradient(-180deg, #fafbfc 0%, #eff3f6 90%);
-    }
+.github-pinner #gp-container-profile .gp-btn {
+    margin-top: 6px;
+    width: 100px;
+    float: right;
+    text-decoration: none;
+    text-align: center;
+    background-repeat: repeat-x;
+    background-position: -1px -1px;
+    background-size: 110% 110%;
+    border: 1px solid rgba(27,31,35,0.2);
+    border-radius: 0.25em;
+    -webkit-appearance: none;
+    user-select: none;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 20px;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    color: #eff3f6;
+    background-color: #24292e;
+    background-image: linear-gradient(-180deg, #fafbfc 0%, #eff3f6 90%);
+}
 
 .github-pinner #gp-container-profile > .gp-stats {
   display: block;
@@ -243,11 +243,12 @@ body {
     background-repeat: no-repeat;
     background-position: 12px center;
     background-blend-mode: red;
+    color: #0366d6;
 }
 
 .github-pinner .gp-search:focus {
-  background-image: url("https://d29mk5socxaj4o.cloudfront.net/imgs/search-highlight.svg");
-  border-color: #3B9CEA;
+    background-image: url("https://d29mk5socxaj4o.cloudfront.net/imgs/search-highlight.svg");
+    border-color: #0366d6;
 }
 
 .github-pinner #gp-container-all-repos > #gp-container-repo {
