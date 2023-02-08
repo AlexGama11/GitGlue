@@ -87,7 +87,7 @@
     var styleref = document.createElement("link")
     styleref.rel = "stylesheet"
     styleref.type = "text/css"
-      styleref.href = "css/style.css"//"https://alexgama11.github.io/GitGlue/css/style.css"
+      styleref.href = "css/gitstyle.css"//"https://alexgama11.github.io/GitGlue/css/gitstyle.css"
     document.getElementsByTagName("head")[0].prepend(styleref)
   }
 
